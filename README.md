@@ -21,11 +21,11 @@ I am exploring a prospective research direction on **uncertainty-aware EV chargi
 
 | Work | Scope and status |
 | --- | --- |
-| **Hybrid PV–wind microgrid (MATLAB/Simulink)** | UTS postgraduate **group coursework** involving a model with solar PV, wind generation, battery storage and grid integration. Personal contributions and model-sharing permissions are being reviewed. |
-| **EV charging and solar microgrids in Bangladesh** | **Co-authored BSc thesis** investigating solar-assisted EV charging and microgrid concepts in Bangladesh. |
-| **EV/PV feeder-voltage demonstration (Python)** | **Educational starter prototype under review** using a simplified feeder-voltage approximation. Not a validated research result or publication. |
+| [**Hybrid PV–wind microgrid (MATLAB/Simulink)**](projects/hybrid-renewable-microgrid/README.md) | UTS postgraduate **group coursework** involving a model with solar PV, wind generation, battery storage and grid integration. Personal contributions and model-sharing permissions are being reviewed. |
+| [**EV charging and solar microgrids in Bangladesh**](projects/ev-charging-solar-microgrids-thesis/README.md) | **Co-authored BSc thesis** investigating solar-assisted EV charging and microgrid concepts in Bangladesh. |
+| [**EV/PV feeder-voltage demonstration (Python)**](projects/ev-pv-feeder-voltage-demo/README.md) | **Educational starter prototype under review** using a simplified feeder-voltage approximation. Not a validated research result or publication. |
 
-Dedicated project repositories will be linked here after their content, attribution and permissions have been reviewed.
+All three project folders are available in this repository. Original group model files and the co-authored thesis PDF remain unpublished pending attribution and sharing-permission checks.
 
 ## Technical skills
 
